@@ -5,6 +5,7 @@
  
  ## Instruções
  -> O arquivo "cadastro-curso.sql" é o principal, e é o que deve ser importado para gerar o banco e as tabelas no MySQL.
+ 
  -> Na pasta "exercicios" é armazenado as questões(em forma de comentarios) e respectivamente suas soluções via código.
 
 ### Ferramentas utilizadas
