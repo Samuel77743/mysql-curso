@@ -11,4 +11,4 @@
 ### Ferramentas utilizadas
 - MySQL WorkBench
 - WAMP (para gerar um banco de dados local, outra alternativa poderia ser o XAMP)
-- PHP MyAdmin (usado poucas vezes já que a idéia era aprender a maioria dos comandos, e a plataforma já ser bem intuitiva)
+- PHP MyAdmin (usado poucas vezes já que a ideia era aprender a maioria dos comandos, e a plataforma já ser bem intuitiva)
