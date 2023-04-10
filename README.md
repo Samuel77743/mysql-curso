@@ -1,7 +1,7 @@
 # MySQL - Realização de Exercício e Estudo de conceitos
  Neste repositório é apresentado os principais comandos SQL encima da padronização do MySQL WORKBENCH,
  além dos arquivos é válido informar que paralelamente foi feito um intenso estudo sobre a linguagem
- e os conceitos sobre Banco de Dados no geral, inclusive sobre o contexto histórico. Estudo instruído por Curso em Video - Gustavo Guanabara
+ e os conceitos sobre Banco de Dados no geral, inclusive sobre o contexto histórico. Estudo instruído por Curso em Video - Gustavo Guanabara.
  
  ## Instruções
  -> O arquivo "cadastro-curso.sql" é o principal, e é o que deve ser importado para gerar o banco e as tabelas no MySQL.
